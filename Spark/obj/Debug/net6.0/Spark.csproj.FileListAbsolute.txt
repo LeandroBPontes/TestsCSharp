@@ -1,0 +1,12 @@
+C:\Users\leand\Desktop\Projetos\Spark\Spark\bin\Debug\net6.0\Spark.deps.json
+C:\Users\leand\Desktop\Projetos\Spark\Spark\bin\Debug\net6.0\Spark.dll
+C:\Users\leand\Desktop\Projetos\Spark\Spark\bin\Debug\net6.0\Spark.pdb
+C:\Users\leand\Desktop\Projetos\Spark\Spark\obj\Debug\net6.0\Spark.csproj.AssemblyReference.cache
+C:\Users\leand\Desktop\Projetos\Spark\Spark\obj\Debug\net6.0\Spark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Desktop\Projetos\Spark\Spark\obj\Debug\net6.0\Spark.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\Projetos\Spark\Spark\obj\Debug\net6.0\Spark.AssemblyInfo.cs
+C:\Users\leand\Desktop\Projetos\Spark\Spark\obj\Debug\net6.0\Spark.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\Projetos\Spark\Spark\obj\Debug\net6.0\Spark.dll
+C:\Users\leand\Desktop\Projetos\Spark\Spark\obj\Debug\net6.0\refint\Spark.dll
+C:\Users\leand\Desktop\Projetos\Spark\Spark\obj\Debug\net6.0\Spark.pdb
+C:\Users\leand\Desktop\Projetos\Spark\Spark\obj\Debug\net6.0\ref\Spark.dll
