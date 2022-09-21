@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leand\\Desktop\\Projetos\\TestsCSharp\\Spark\\Spark\\Spark.csproj",
+      "projectUniqueName": "C:\\Users\\leand\\Desktop\\Projetos\\TestsCSharp\\Spark\\TestsCSharp\\Spark\\Spark.csproj",
       "projectName": "Spark",
-      "projectPath": "C:\\Users\\leand\\Desktop\\Projetos\\TestsCSharp\\Spark\\Spark\\Spark.csproj",
+      "projectPath": "C:\\Users\\leand\\Desktop\\Projetos\\TestsCSharp\\Spark\\TestsCSharp\\Spark\\Spark.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leand\\Desktop\\Projetos\\TestsCSharp\\Spark\\Spark\\obj\\",
+      "outputPath": "C:\\Users\\leand\\Desktop\\Projetos\\TestsCSharp\\Spark\\TestsCSharp\\Spark\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"
